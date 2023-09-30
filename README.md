@@ -2,13 +2,17 @@
 
 <hr>
 
+:memo: Descrição:
+
+<p>Tela de login criada a partir de HTML, CSS e Javascript e renderizando uma tela de carregamento</p>
+
+<hr>
+
 # Preview
 <img src="/img/assets/preview-login.png" alt="tela-login">
 <img src="/img/assets/preview-loading.png" alt="tela-carregamento">
 
-:memo: Descrição:
 
-<p>Tela de login criada a partir de HTML, CSS e Javascript e renderizando uma tela de carregamento</p>
 
 <hr>
 
